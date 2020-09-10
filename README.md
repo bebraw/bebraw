@@ -1,4 +1,6 @@
-![](https://github-readme-stats.vercel.app/api?username=bebraw&show_icons=true&count_private=true)
+![Statistics](https://github-readme-stats.vercel.app/api?username=bebraw&show_icons=true&count_private=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=bebraw)
 
 <!--
 **bebraw/bebraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
