@@ -1,7 +1,3 @@
-![Statistics](https://github-readme-stats.vercel.app/api?username=bebraw&show_icons=true&count_private=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=bebraw)
-
 [![Source Karma badge for @bebraw](https://sourcekarma-og.vercel.app/api/bebraw/github)](https://sourcekarma.vercel.app/bebraw)
 
 <!--
