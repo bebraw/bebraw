@@ -1,5 +1,3 @@
-[![Source Karma badge for @bebraw](https://sourcekarma-og.vercel.app/api/bebraw/github)](https://sourcekarma.vercel.app/bebraw)
-
 <!--
 **bebraw/bebraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
